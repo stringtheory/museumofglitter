@@ -13,7 +13,7 @@ We manage our styles using SCMSCSCSS. There was also some webpack, yarn, yo-yo,
 yolo, and chipmunk that we are pretty sure handles package management.
 Our primary package delivery method is FedEX.
 
--  JKJK LOL!!!!!! ✧･ﾟ: *✧･ *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧✧･ﾟ    -
+  JKJK LOL!!!!!! ✧･ﾟ: *✧･ *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧✧･ﾟ    -
 
 This page is built with HTML & CSS. It doesnt even have multiple pages, we just
 were lazy and used tabs. This web page is for a single day selfie palace parody!
@@ -29,8 +29,11 @@ were lazy and used tabs - so all the stuff is on this one page.
 Tabs that are just powered by toggling checkboxes using CSS, thank you very much.
 Put that in your pipe and smoke it.
 
--    ✧･ﾟ: *✧･ *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ    -
+    ✧･ﾟ: *✧･ *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ    -
 In case you were curious:
+
 Senpaga - free in Esperanto
+
 ekkert - nothing in Icelandic
+
 alferrikako - unnecessary in Basque
