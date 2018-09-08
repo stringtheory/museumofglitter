@@ -2,7 +2,7 @@
 * { box-sizing: border-box; }
 
 body {
-  background: url(http://i180.photobucket.com/albums/x249/lori60176/glitter%20patterns/Glitters%20plus%20stacked/Patterns%20I%20made/pasterlsti.jpg);
+  background: url(../images/background.jpg);
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   margin: 0;
   padding: 0;
@@ -216,6 +216,7 @@ p {
 
 .required_by_management li {
   min-width: 100%;
+  padding: 10px;
 }
 
 @media all and (min-width: 768px) {
