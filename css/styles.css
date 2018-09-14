@@ -53,7 +53,7 @@ img {max-width: 100%;}
     flex-direction: row;
   }
   .all_anyone_cares_about { flex: 4 0px; order: 2}
-  .on_the_side { order: 1; max-width: 250px; }
+  .things_people_dont_read { order: 1; max-width: 250px; }
   .useless_ads { order: 3; max-width: 250px;}
 }
 
@@ -129,19 +129,18 @@ img {max-width: 100%;}
   color: blue;
 }
 
-.all_the_important_stuff [type="radio"]:nth-of-type(1):checked ~ .important_stuff:nth-of-type(1) {
+.all_the_important_stuff [type="radio"]:nth-of-type(1):checked ~ .important_stuff:nth-of-type(1),
+.all_the_important_stuff [type="radio"]:nth-of-type(4):checked ~ .important_stuff:nth-of-type(4) {
   display: flex;
 }
 .all_the_important_stuff [type="radio"]:nth-of-type(2):checked ~ .important_stuff:nth-of-type(2),
 .all_the_important_stuff [type="radio"]:nth-of-type(3):checked ~ .important_stuff:nth-of-type(3),
-.all_the_important_stuff [type="radio"]:nth-of-type(4):checked ~ .important_stuff:nth-of-type(4),
-.all_the_important_stuff [type="radio"]:nth-of-type(5):checked ~ .important_stuff:nth-of-type(5),
-.all_the_important_stuff [type="radio"]:nth-of-type(6):checked ~ .important_stuff:nth-of-type(6) {
+.all_the_important_stuff [type="radio"]:nth-of-type(5):checked ~ .important_stuff:nth-of-type(5) {
   display: block;
 }
 
 /* Aside */
-.on_the_side {
+.things_people_dont_read {
   background: #f2f9fe;
   background: linear-gradient(to bottom, #f2f9fe 0%, #d6f0fd 100%);
   border: 2px dotted #a01003;
@@ -170,7 +169,10 @@ img {max-width: 100%;}
 }
 
 .useless_ads {
-  margin-top: 40px;
+  background: #fcd4d4;
+  background: -webkit-linear-gradient(top, #fcd4d4 0%,#dfc7e5 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #fcd4d4 0%,#dfc7e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  padding-top: 40px;
   text-align: center;
 }
 
@@ -183,23 +185,23 @@ img {max-width: 100%;}
 /* Type */
 h1.fancy_title,
 h2.fancy_title {
-  color: magenta;
+  color: rebeccapurple;  /* 8.41:1 Contrast Ratio  - WCAG AAA FTW!!! */
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 60px;
   text-shadow:
-    1.5px 1.5px 0 Yellow, 0px 1.5px 0 Yellow,
-    -1.5px -1.5px 0 Yellow, -1.5px -1.5px 0 Yellow,
-    -1.5px 1.5px 0 Yellow,
-    1.5px -1.5px 0 Yellow,
-    1px 1px 0 #e62915,
-    2px 2px 0 #e62915,
-    3px 3px 0 #e62915,
-    4px 4px 0 #e62915,
-    5px 5px 0 #e62915, 6px 6px 0 #e62915, 7px 7px 0 #e62915, 8px 8px 0 #e62915;
+    1.5px 1.5px 0 paleturquoise, 0px 1.5px 0 paleturquoise,
+    -1.5px -1.5px 0 paleturquoise, -1.5px -1.5px 0 paleturquoise,
+    -1.5px 1.5px 0 paleturquoise,
+    1.5px -1.5px 0 paleturquoise,
+    1px 1px 0 fuchsia,
+    2px 2px 0 fuchsia,
+    3px 3px 0 fuchsia,
+    4px 4px 0 fuchsia,
+    5px 5px 0 fuchsia, 6px 6px 0 fuchsia, 7px 7px 0 fuchsia, 8px 8px 0 fuchsia;
 }
 
 h2 {
-  color:  #7b48db;
+  color: fuchsia;
   font: bold 30px "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
 }
 
