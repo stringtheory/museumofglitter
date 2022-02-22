@@ -18,10 +18,9 @@ img {max-width: 100%;}
 
 /* Layout */
 .important_stuff {
-  background: #fff;
   display: none;
   flex-direction: column;
-  margin: 0 30px 30px;
+  margin: 30px;
   min-height: 100vh;
 }
 
