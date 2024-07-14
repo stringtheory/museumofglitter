@@ -169,7 +169,6 @@ img {max-width: 100%;}
 
 .useless_ads {
   background: #fcd4d4;
-  background: -webkit-linear-gradient(top, #fcd4d4 0%,#dfc7e5 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, #fcd4d4 0%,#dfc7e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   padding-top: 40px;
   text-align: center;
@@ -200,7 +199,7 @@ h2.fancy_title {
 }
 
 h2 {
-  color: fuchsia;
+  color: #A132DC;
   font: bold 30px "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
 }
 
