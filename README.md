@@ -2,25 +2,25 @@
 
 ## Tech Stack
 
-This is the static website for the Museum of Glitter. 
-
-The Museum of Glitter is built using the latest in high performance web
-technologies.
+This is the static website for the ![Museum of Glitter](https://themuseumofglitter.com/)), 
+built using the latest in high performance web technologies.
 
 The foundation of our stack is the the NoNopeSQL database, the SPARQL Protocol
 and RDF Query Language, and the server side web application framework 
-serverless-server-served.js packaged by buffet and waitress strike. 
-The client side frontend-framework is redacted-reflect-refactor-oh-no.js, 
-deply-on-friday.js, No.js, & and Node.js, which is based on the JavaScript(ish) runtime 
-environment.
+serverless-server-served.js. 
 
-We use logic, so much logic based templates using hipster.io.
-We manage our styles using SCMSCSCSS. There was also some webpack, yarn, yo-yo,
-yolo, and chipmunk that we are pretty sure handles package management. 
-Our primary package delivery method is FedEX.
+The client side frontend-framework is 
+redacted-reflect-refactor-oh-no.js, deploy-only-on-friday.js, 
+No.js, & and Node.js, which is based on the JavaScript(ish) runtime 
+environment. We use the logic, so much logic based template framework 90s-web.ninja.
+Styles are managed using SCMSCSCSS3 and post-apocalyptically-processed with the MegaVibe9000. 
+
+There was also some webpack, yarn, yo-yo, yolo, and chipmunk 
+that we are pretty sure handles package management. Our primary package 
+delivery method is FedEX. 
 
 Our DevOps Pipelines are powered by HI (Human Intelligence) with a foundational 
-CI/CD (Cat Intelligence/Cats DESTROY) architecture.
+CI/CD (Cat Intelligence/Cats DESTROY) architecture. 
 
 ✧
 
@@ -35,13 +35,14 @@ Why, dear god why, would make performance sucking single page web app.
 We want to use all of your performance putting 15 animated glitter gif's on the
 page. Lets Rock this page like it is 1995. 
 
-There is no javascript, what would it do? Render a template???? WE CAN JUST
-PUT THE TEXT IN THE [insert curse word] PAGE! So we can make a fancy pants Single Page
-Web App??? THIS IS A SINGLE PAGE "WEB APP", not to repeat ourselves, but we
-were lazy and used tabs - so all the stuff is on this one page.
-Tabs that are just powered by toggling checkboxes using CSS, put that in your fanny
-pack and zip it.
+There is no javascript, what would it do? Render a template???? WE CAN JUST PUT 
+THE TEXT IN THE [insert curse word] PAGE! 
+Make a fancy pants Single Page Web App??? THIS IS A SINGLE PAGE "WEB APP", not to 
+repeat ourselves, but we were lazy and used tabs - so all the stuff is on this one 
+page. Tabs that are just powered by toggling checkboxes using CSS, put that in your 
+fanny pack and zip it.
 
+✧
 
 **✧･ﾟ: *✧･ *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧✧･ﾟ**
 
@@ -74,5 +75,12 @@ Kids in The Glitter Pool
 ![https://s3-us-west-2.amazonaws.com/s.cdpn.io/53257/ljYcKRL.jpg](https://s3-us-west-2.amazonaws.com/s.cdpn.io/53257/ljYcKRL.jpg)
 
 [Sparklocity Town Model](https://codepen.io/stringtheory/full/VNbZEY)
+
+**How is Kids + Dogs + Glitter a good idea???** 
+
+Over 300 kids visited The Museum of Glitter. None of them left with more glitter on them then they showed up with. 
+
+
+
 
 
