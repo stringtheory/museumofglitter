@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/c6179401-1db6-4aeb-aaf7-2f3bbe1b1247
 **Why is this page still up?**
 
 - It's a place you can visit where you will not get asked to accept a cookie policy,
-- making it one of the calmest and least frustrating places on the internet.
+making it one of the calmest and least frustrating places on the internet.
 
 - This site still gets a bunch of traffic. We think. We didnt put any tracking on it.
 
