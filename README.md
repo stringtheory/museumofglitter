@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-This is the static website for the ![Museum of Glitter](https://themuseumofglitter.com/)), 
+This is the static website for the [Museum of Glitter](https://themuseumofglitter.com/), 
 built using the latest in high performance web technologies.
 
 The foundation of our stack is the the NoNopeSQL database, the SPARQL Protocol
@@ -24,7 +24,11 @@ CI/CD (Cat Intelligence/Cats DESTROY) architecture.
 
 ✧
 
-**JKJK LOL!!!!!!** ✧･ﾟ: *✧･ *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧✧･ﾟ    -
+✧ **JKJK LOL!!!!!!** ✧･ﾟ: *✧･ *:･ﾟ✧*:･ﾟ✧✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧✧･ﾟ    
+
+✧
+
+---  
 
 ## The Real Secret Sauce
 
@@ -48,21 +52,25 @@ fanny pack and zip it.
 
 ✧
 
-### FAQ
+## FAQ
 
 **Why code this way???** 
 
 https://github.com/user-attachments/assets/c6179401-1db6-4aeb-aaf7-2f3bbe1b1247
 
-**FAQ Why is this page still up?**
+---  
 
-- Its is a place you can visit where you will not get asked to accept a cookie
-  policy, making it one of the calmest and least freustrating places on the internet. 
+**Why is this page still up?**
+
+- It's a place you can visit where you will not get asked to accept a cookie policy,
+- making it one of the calmest and least frustrating places on the internet.
 
 - This site still gets a bunch of traffic. We think. We didnt put any tracking on it.
 
 - Many excellent contributors wrote excellent examples of a well formatted issue
-  tickets. There is still so much work to be done. 
+  tickets. There is still so much work to be done.
+
+---  
 
 **Was This Real???** 
 
@@ -75,12 +83,5 @@ Kids in The Glitter Pool
 ![https://s3-us-west-2.amazonaws.com/s.cdpn.io/53257/ljYcKRL.jpg](https://s3-us-west-2.amazonaws.com/s.cdpn.io/53257/ljYcKRL.jpg)
 
 [Sparklocity Town Model](https://codepen.io/stringtheory/full/VNbZEY)
-
-**How is Kids + Dogs + Glitter a good idea???** 
-
-Over 300 kids visited The Museum of Glitter. None of them left with more glitter on them then they showed up with. 
-
-
-
 
 
